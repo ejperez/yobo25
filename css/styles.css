@@ -1,0 +1,125 @@
+.jumbotron {
+	margin-bottom: 0;		
+	border-radius: 0 !important;
+}
+h1 {
+	font-family: 'Raleway', sans-serif;
+	font-size: 6em !important;
+}
+p {
+	font-family: 'Merriweather', serif;
+}
+pre {
+	background-color: rgba(255, 255, 255, 0);
+	font-size: 2em;
+	font-family: 'Shadows Into Light', cursive;
+}
+.transluscent{
+	background-color: rgba(255, 255, 255, 0.5);
+}
+#jt1 {
+	background: url(../images/1.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;		
+	background-position: 50% 30%;
+	height: 600px;
+	color: #000;
+}
+#jt2 {
+	background: url(../images/4.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: 50% 30%;
+	height: 600px;
+	color: #000;
+}
+#jt3 {
+	background: url(../images/7.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: 50% 80%;
+	height: 600px;
+	color: #fff;
+}
+#jt4 {
+	background: url(../images/5.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: 50% 80%;
+	height: 600px;
+	color: #fff;
+}
+#jt5 {
+	background: url(../images/8.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: 50% 5%;
+	height: 600px;
+	color: #000;
+}
+#jt6 {
+	background: url(../images/9.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: 50% 20%;
+	height: 600px;
+	color: #fff;
+}
+#jt7 {
+	background: url(../images/10.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: 50% 80%;
+	height: 600px;
+	color: #000;
+}
+#jt8 {
+	background: url(../images/3.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: 50% 0%;
+	height: 600px;
+	color: #000;
+}
+#jt9 {
+	background: url(../images/6.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: 50% 80%;
+	height: 600px;
+	color: #000;
+}
+#jt10 {
+	background: url(../images/2.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: 50% 80%;
+	height: 600px;
+	color: #fff;
+}
+#jt11 { 
+	background: url(../images/paper.jpg);
+	height: 2000px;
+	color: #000;
+}
+#jt12 { 
+	background: url(../images/11.jpg);
+	background-size: 120%;
+	background-repeat: no-repeat;
+	background-position: 100% 30%;
+	height: 600px;
+	color: #000;
+}
+#jttext { 
+	background-color: #4DA5ED;
+	color: #fff;
+	height: 250px;
+}
+#jt14 { 
+	background: url(../images/survivor.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: 100% 100%;
+	height: 1000px;
+	color: #000;
+}
